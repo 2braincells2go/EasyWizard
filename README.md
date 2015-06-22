@@ -4,7 +4,7 @@ Tool to easily create a wizard.
 
 ## Example
 
-´´´html
+```html
 
 
 <!DOCTYPE html>
@@ -60,7 +60,7 @@ Tool to easily create a wizard.
 </body>
 
 
-´´´
+```
 
 
 
